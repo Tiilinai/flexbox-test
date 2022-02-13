@@ -1,0 +1,36 @@
+body {
+    background-color: brown;
+    margin: 0;
+}
+
+.flex__page {
+    height: 100vh;
+    background-color: #940428;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container { 
+    background-color: #940428;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+.box {
+    background-color: #F48C06;
+    border: black;
+    border-radius: 15px;
+    margin: 20px;
+    width: 90%;
+    min-width: 480px;
+    min-height: 160px;
+    color: rgb(224, 115, 26);
+}
+
